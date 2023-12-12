@@ -11,8 +11,5 @@ A small online community dedicated to gaming
 </ul>
 
 
-### Stats
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Blazes-Meta&layout=compact&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&langs_count=8)](https://github.com/annhilati)
-
 ### Interesting Repositorys
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blazes-Meta&repo=meta-maltino&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&description_lines_count=3)](https://github.com/annhilati/servertools-datapack/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blazes-Meta&repo=meta-maltino-minecraft-server&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&description_lines_count=3)](https://github.com/Blazes-Meta/servertools-datapack/)
