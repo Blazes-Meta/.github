@@ -12,4 +12,4 @@ A small online community dedicated to gaming
 
 
 ### Interesting Repositorys
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blazes-Meta&repo=meta-maltino-minecraft-server&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&description_lines_count=3)](https://github.com/Blazes-Meta/servertools-datapack/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blazes-Meta&repo=meta-maltino-minecraft-server&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&description_lines_count=3)](https://github.com/Blazes-Meta/meta-maltino-minecraft-server)
