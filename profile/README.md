@@ -1,14 +1,13 @@
 <h1 align="left">Hi 👋 We are Blazes Meta</h1>
 
-Minecraft Pack developer with a penchant for mathematics <br> (that's why sometimes Python)
---------------------------------------------------------------------------------------
+A small online community dedicated to gaming 
+------------------------------------------------------------------
 
 
 <ul>
-    <li>:earth_africa: I'm based in Germany</li>
-    <li>🖥️ See my portfolio at <a href="http://linktr.ee/annhilati">Linktree</a></li>
-    <li>:rocket: I'm currently working on <a href="http://linktr.ee/annhilati">something from my list (maybe)</a></li>
-    <li>:brain: I'm learning GLSL</li>
+    <li>:earth_africa: We come from all over Germany</li>
+    <li>:rocket:We regularly host Minecraft projects ...</li>
+    <li>:brain: ... and continue to develop our server and plugin configuration</li>
 </ul>
 
 
