@@ -6,7 +6,7 @@ A small online community dedicated to gaming
 
 <ul>
     <li>:earth_africa: We come from all over Germany</li>
-    <li>:rocket: We regularly host Minecraft projects ...</li>
+    <li>:rocket: We regularly host <a href=https://github.com/Blazes-Meta/.github/wiki/Projekte>Minecraft projects</a> ...</li>
     <li>:brain: ... and continue to develop our server and plugin configuration</li>
 </ul>
 
