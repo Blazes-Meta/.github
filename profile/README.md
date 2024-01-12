@@ -13,7 +13,7 @@ A small online community dedicated to gaming
 
 <h3 align="left">Links</h3>
 <p align="left">
-    <!--UptimeRobot--> <a href="https://stats.uptimerobot.com/LkGDGiNVvY/" target="_blank" rel="noreferrer"><img src="https://framerusercontent.com/images/YYpK7OIyG1xLnlHOFf1OR1m8.svg" width="40" height="40" alt="UptimeRobot" /></a>
+    <!--UptimeRobot--> <a href="https://stats.uptimerobot.com/q0o5oHL9Z5" target="_blank" rel="noreferrer"><img src="https://framerusercontent.com/images/YYpK7OIyG1xLnlHOFf1OR1m8.svg" width="40" height="40" alt="UptimeRobot" /></a>
 </p>
 
 
