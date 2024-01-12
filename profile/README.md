@@ -1,4 +1,4 @@
-# Hi 👋 We are Blazes Meta <a href="https://stats.uptimerobot.com/q0o5oHL9Z5" target="_blank" rel="noreferrer"><img src="https://framerusercontent.com/images/YYpK7OIyG1xLnlHOFf1OR1m8.svg" width="40" height="40" align="right" alt="UptimeRobot" /></a><a href="https://discord.gg/2YvbptpAqz" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/download/353655/discord-icon.svg" width="40" align="right" alt="Discord" /></a>
+# Hi 👋 We are Blazes Meta <a href="https://stats.uptimerobot.com/q0o5oHL9Z5" target="_blank" rel="noreferrer"><img src="https://framerusercontent.com/images/YYpK7OIyG1xLnlHOFf1OR1m8.svg" width="36" height="36" align="right" alt="UptimeRobot" /></a><a href="https://discord.gg/2YvbptpAqz" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/download/353655/discord-icon.svg" width="36" align="right" alt="Discord" /></a>
 
 A small online community dedicated to gaming 
 ------------------------------------------------------------------
