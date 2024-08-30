@@ -1,4 +1,4 @@
-# Hi 👋 We are Blazes Meta <a href="https://stats.uptimerobot.com/q0o5oHL9Z5" target="_blank" rel="noreferrer"><img src="https://framerusercontent.com/images/YYpK7OIyG1xLnlHOFf1OR1m8.svg" width="36" height="36" align="right" alt="UptimeRobot" /></a><a href="https://discord.gg/2YvbptpAqz" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/download/353655/discord-icon.svg" width="36" align="right" alt="Discord" /></a>
+# Hi 👋 We are Blazes Meta <a href="https://stats.uptimerobot.com/q0o5oHL9Z5" target="_blank" rel="noreferrer"><img src="https://github.com/intergrav/devins-badges/blob/v3/assets/cozy-minimal/documentation/issues_vector.svg" width="36" height="36" align="right" alt="UptimeRobot" /></a><a href="https://modrinth.com/organization/blazes-meta" target="_blank" rel="noreferrer"><img src="https://github.com/intergrav/devins-badges/blob/v3/assets/cozy-minimal/available/modrinth_vector.svg" height="36" align="right" alt="Modrinth" /></a><a href="https://discord.gg/2YvbptpAqz" target="_blank" rel="noreferrer"><img src="https://github.com/intergrav/devins-badges/blob/v3/assets/compact/social/discord-plural_vector.svg" height="36" align="right" alt="Discord" /></a>
 
 A small online community and Minecraft project administrator team
 ------------------------------------------------------------------
@@ -10,13 +10,15 @@ A small online community and Minecraft project administrator team
     <li>:brain: ... and continue to develop our server and plugin configuration</li>
 </ul>
 
-<h3>Frameworks</h3>
+<h3>Plugin Frameworks</h3>
+<p align="left">
+    <!--Spigot--> <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/Blazes-Meta/assets/blob/main/Badges/Icons%20(cozy%20minimal)/spigot.svg" width="39" height="39" alt="Python" /></a>
+</p>
+<h3>Server Frameworks</h3>
 <p align="left">
     <!--Paper--> <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/Blazes-Meta/assets/blob/main/Badges/Icons%20(cozy%20minimal)/paper.svg" width="39" height="39" alt="Python" /></a>
     <!--Spigot--> <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/Blazes-Meta/assets/blob/main/Badges/Icons%20(cozy%20minimal)/spigot.svg" width="39" height="39" alt="Python" /></a>
     <!--Bukkit--> <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/Blazes-Meta/assets/blob/main/Badges/Icons%20(cozy%20minimal)/bukkit.svg" width="39" height="39" alt="Python" /></a>
-    
-       
 </p>
 
 
