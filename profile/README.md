@@ -10,6 +10,15 @@ A small online community and Minecraft project administrator team
     <li>:brain: ... and continue to develop our server and plugin configuration</li>
 </ul>
 
+<h3>Frameworks</h3>
+<p align="left">
+    <!--Paper--> <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/Blazes-Meta/assets/blob/main/Badges/Icons%20(cozy%20minimal)/paper.svg" width="39" height="39" alt="Python" /></a>
+    <!--Spigot--> <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/Blazes-Meta/assets/blob/main/Badges/Icons%20(cozy%20minimal)/spigot.svg" width="39" height="39" alt="Python" /></a>
+    <!--Bukkit--> <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/Blazes-Meta/assets/blob/main/Badges/Icons%20(cozy%20minimal)/bukkit.svg" width="39" height="39" alt="Python" /></a>
+    
+       
+</p>
+
 
 
 <!--
