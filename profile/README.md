@@ -1,4 +1,9 @@
-# Hi 👋 We are Blazes Meta <a href="https://stats.uptimerobot.com/q0o5oHL9Z5" target="_blank" rel="noreferrer"><img src="https://github.com/intergrav/devins-badges/blob/v3/assets/cozy-minimal/documentation/issues_vector.svg" width="36" height="36" align="right" alt="UptimeRobot" /></a><a href="https://modrinth.com/organization/blazes-meta" target="_blank" rel="noreferrer"><img src="https://github.com/intergrav/devins-badges/blob/v3/assets/cozy-minimal/available/modrinth_vector.svg" height="36" align="right" alt="Modrinth" /></a><a href="https://discord.gg/2YvbptpAqz" target="_blank" rel="noreferrer"><img src="https://github.com/intergrav/devins-badges/blob/v3/assets/compact/social/discord-plural_vector.svg" height="36" align="right" alt="Discord" /></a>
+# Hi 👋 We are Blazes Meta <a href="https://modrinth.com/organization/blazes-meta" target="_blank" rel="noreferrer"><img src="https://github.com/intergrav/devins-badges/blob/v3/assets/compact-minimal/available/modrinth_vector.svg" height="36" align="right" alt="Modrinth" /></a><a href="https://discord.gg/2YvbptpAqz" target="_blank" rel="noreferrer"><img src="https://github.com/intergrav/devins-badges/blob/v3/assets/compact/social/discord-plural_vector.svg" height="36" align="right" alt="Discord" /></a>
+
+<p align="center">
+    <!--Paper-->       <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/intergrav/devins-badges/blob/v3/assets/compact/documentation/ghpages_vector.svg" height="39" alt="Paper" /></a>
+    <!--UptimeRobot--> <a href="https://stats.uptimerobot.com/q0o5oHL9Z5" target="_blank" rel="noreferrer"><img src="https://github.com/intergrav/devins-badges/blob/v3/assets/compact-minimal/documentation/issues_vector.svg" height="39" alt="UptimeRobot" /></a>
+</p>
 
 A small online community and Minecraft project administrator team
 ------------------------------------------------------------------
@@ -16,9 +21,9 @@ A small online community and Minecraft project administrator team
 </p>
 <h3>Server Frameworks</h3>
 <p align="left">
-    <!--Paper--> <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/Blazes-Meta/assets/blob/main/Badges/Icons%20(cozy%20minimal)/paper.svg" width="39" height="39" alt="Python" /></a>
-    <!--Spigot--> <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/Blazes-Meta/assets/blob/main/Badges/Icons%20(cozy%20minimal)/spigot.svg" width="39" height="39" alt="Python" /></a>
-    <!--Bukkit--> <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/Blazes-Meta/assets/blob/main/Badges/Icons%20(cozy%20minimal)/bukkit.svg" width="39" height="39" alt="Python" /></a>
+    <!--Paper--> <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/Blazes-Meta/assets/blob/main/Badges/Icons%20(cozy%20minimal)/paper.svg" width="39" height="39" alt="Paper" /></a>
+    <!--Spigot--> <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/Blazes-Meta/assets/blob/main/Badges/Icons%20(cozy%20minimal)/spigot.svg" width="39" height="39" alt="Spigot" /></a>
+    <!--Bukkit--> <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/Blazes-Meta/assets/blob/main/Badges/Icons%20(cozy%20minimal)/bukkit.svg" width="39" height="39" alt="Bukkit" /></a>
 </p>
 
 
