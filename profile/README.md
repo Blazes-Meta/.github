@@ -1,11 +1,11 @@
-# Hi 👋 We are Blazes Meta <a href="https://modrinth.com/organization/blazes-meta" target="_blank" rel="noreferrer"><img src="https://github.com/intergrav/devins-badges/blob/v3/assets/compact-minimal/available/modrinth_vector.svg" height="39" align="right" alt="Modrinth" /></a><a href="https://discord.gg/2YvbptpAqz" target="_blank" rel="noreferrer"><img src="https://github.com/intergrav/devins-badges/blob/v3/assets/compact-minimal/social/discord-plural_vector.svg" height="39" align="right" alt="Discord" /></a>
+# Hi 👋 We are Blazes Meta Studios <a href="https://modrinth.com/organization/blazes-meta" target="_blank" rel="noreferrer"><img src="https://github.com/intergrav/devins-badges/blob/v3/assets/compact-minimal/available/modrinth_vector.svg" height="39" align="right" alt="Modrinth" /></a><a href="https://discord.gg/2YvbptpAqz" target="_blank" rel="noreferrer"><img src="https://github.com/intergrav/devins-badges/blob/v3/assets/compact-minimal/social/discord-plural_vector.svg" height="39" align="right" alt="Discord" /></a>
 
 <p align="center">
     <!--Wiki-->        <a href="https://blazesmeta.notion.site/Blazes-Meta-Wiki-1cbd3e53ab9344029efc8f3c3d9d6330" target="_blank" rel="noreferrer"><img src="https://github.com/intergrav/devins-badges/blob/v3/assets/compact/documentation/ghpages_vector.svg" height="39" alt="Paper" /></a>
     <!--UptimeRobot--> <a href="https://stats.uptimerobot.com/q0o5oHL9Z5" target="_blank" rel="noreferrer"><img src="https://github.com/intergrav/devins-badges/blob/v3/assets/compact-minimal/documentation/issues_vector.svg" height="39" alt="UptimeRobot" /></a>
 </p>
 
-A small online community and Minecraft project administrator team
+A private German Minecraft project development, host and administration service and a subsidiary of Blazes Meta
 ------------------------------------------------------------------
 
 
