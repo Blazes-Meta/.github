@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="#"><img src="https://github.com/Blazes-Meta/assets/blob/main/Branding/Blazes%20Meta%20Logo%20L%202000w.png">
+    <a href="#"><img src="https://github.com/Blazes-Meta/.github/blob/main/cdn/Blazes%20Meta%20Logo%20L%202000w.png">
 </p>
 
 # Hi 👋 We are Blazes Meta Studios <a href="https://modrinth.com/organization/blazes-meta" target="_blank" rel="noreferrer"><img src="https://github.com/intergrav/devins-badges/blob/v3/assets/compact-minimal/available/modrinth_vector.svg" height="39" align="right" alt="Modrinth" /></a><a href="https://discord.gg/2YvbptpAqz" target="_blank" rel="noreferrer"><img src="https://github.com/intergrav/devins-badges/blob/v3/assets/compact-minimal/social/discord-plural_vector.svg" height="39" align="right" alt="Discord" /></a>
